@@ -4,6 +4,9 @@ Explore and keep track of various scripts to best use Tensorflow
 This repo collects scripts create to experiment with Tensorflow (2.10) in various use-case. Many of the script are created as personal exercise notepad of the following courses:
 
 - Machine Learning with TensorFlow on Google Cloud Platform Specialization
+- Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization
+
+The main goal is to explore the best practices to usage of Tensorflow as model development and production framework
 
 ---
 

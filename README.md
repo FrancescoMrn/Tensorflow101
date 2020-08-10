@@ -56,7 +56,7 @@ All of the data you'll need to train a neural network are reported inside the re
 
 - [Avocado prices](https://www.kaggle.com/neuromusic/avocado-prices)
 
-### TensorFlow impot errors
+### TensorFlow import errors
 
 In case of the following error:
 

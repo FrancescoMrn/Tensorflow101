@@ -15,6 +15,8 @@ If you don't have a GPU or you don't have a NVIDIA GPU you'll have to run the CP
 
 To run a container you need to move into the right  directory and then execute ```docker-compose up```.
 
+Note: to explore the internal setup of folder: *docker run -it --entrypoint /bin/bash <image>*
+
 ## Credits
 
 Here the original repo containing the origial docker files: https://github.com/TannerGilbert/Tensorflow-Object-Detection-API-Train-Model
